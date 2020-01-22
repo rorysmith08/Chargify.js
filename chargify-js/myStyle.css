@@ -1,0 +1,258 @@
+/*myStyle.CSS*/
+
+body {
+    background-color: #F2F4F8;
+    color: #F2F4F8;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+   }
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    padding: 15px;
+    width: 100%;
+    background-color: #F2F4F8;
+    color: #2CA760;
+}
+
+form {
+    border: solid;
+    width: 80%;
+    padding: 1%;
+    text-align: center;
+    display: inline-block;
+    background-color: #F2F4F8;
+    border-radius: .5em;
+    flex-direction: center;
+    display: table;
+    margin: auto;
+}
+
+label{
+  display: table-cell;
+  color: #F2F4F8;
+}
+
+p{
+  display: table-row;
+}
+
+input{
+  display: table-cell;
+}
+
+.host-form{
+  position: relative;
+  top: 0;
+  margin-top: 10px;
+  background: #F2F4F8;
+}
+
+#chargify-token{
+    display: none !important;
+}
+
+button{
+    background-color: #007AFF;
+    color: white;
+    font-size: 24px;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    border-color: #007AFF;
+}
+
+#chargify1{
+    display: flex;
+    margin: 1%;
+
+}
+
+#chargify1 iframe{
+width: 100% !important;
+}
+
+#chargify2{
+    display: flex;
+    margin: 1%;
+}
+
+#chargify2 iframe{
+width: 100% !important;
+}
+
+#chargify3{
+    display: flex;
+}
+
+#chargify3 iframe{
+width: 100% !important;
+}
+#chargify4{
+    display: flex;
+}
+
+#chargify4 iframe{
+width: 100% !important;
+}
+#chargify5{
+    display: flex;
+}
+
+#chargify5 iframe{
+width: 100% !important;
+}
+#chargify6{
+    display: flex;
+}
+
+#chargify6 iframe{
+width: 100% !important;
+}
+#chargify7{
+    display: flex;
+}
+
+#chargify7 iframe {
+width: 100% !important;
+}
+#chargify8{
+    display: flex;
+}
+
+#chargify8 iframe{
+width: 100% !important;
+}
+#chargify9{
+    display: flex;
+}
+
+#chargify9 iframe{
+width: 100% !important;
+}
+#chargify10 {
+    display: flex;
+}
+
+#chargify10 iframe{
+width: 100% !important;
+}
+#chargify11{
+    display: flex;
+}
+
+#chargify11 iframe {
+width: 100% !important;
+}
+#chargify12 {
+    display: flex;
+}
+
+#chargify12 iframe {
+width: 100% !important;
+}
+#chargify13{
+    display: flex;
+}
+
+#chargify13 iframe {
+width: 100% !important;
+}
+#chargify14{
+    display: flex;
+}
+
+#chargify14 iframe {
+width: 100% !important;
+}
+
+
+.cardfront {
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .cardback {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .name {
+    display: flex;
+    flex-flow: row;
+    margin: auto;
+    padding: 1%;
+  }
+
+  .name div {
+    width: 100%;
+  }
+
+  .name div:last-child {
+    width: 100%;
+  }
+
+  .address3 {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .address3 div {
+    margin-right: 15px;
+    width: 100%;
+  }
+
+  .address3 div:last-child {
+    margin-right: 0;
+    width: 100%;
+  }
+  .address4 {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .address4 div {
+    margin-right: 15px;
+    width: 100%;
+  }
+
+  .address4 div:last-child {
+    margin-right: 0;
+    width: 100%;
+  }
+  .address5 {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .address5 div {
+    margin-right: 15px;
+    width: 100%;
+  }
+
+  .address5 div:last-child {
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .address6 {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .address6 div {
+    margin-right: 15px;
+    width: 100%;
+  }
+
+  .address6 div:last-child {
+    margin-right: 0;
+    width: 100%;
+  }
+
