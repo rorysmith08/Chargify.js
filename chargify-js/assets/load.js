@@ -6,13 +6,13 @@ chargify.load({
     //selector: '#chargify-form',
 
     // (i.e. '1a2cdsdn3lkn54lnlkn')
-    publicKey: 'chjs_8xshdkfdntjfnd3yts3yq7h5',
+    publicKey: 'PUBLIC KEY GOES HERE',
 
     // form type (possible values: 'card', 'bank' or 'gocardless')
     type: 'card',
 
     // points to your Chargify site
-    serverHost: 'https://sf-ri-rory.chargify.com',
+    serverHost: 'https://SUBDOMAIN GOES HERE.chargify.com',
 
     // flag to show/hide the credit card image
     // true: hides the credit card image
